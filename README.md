@@ -1,5 +1,5 @@
 # Ddoser-Tool-CloudFlare-Bypass
-The Best DDoS Attack Tool + Bypass Cloud Flare CDN For Priv8
+The Best DDoS Attack Tool + Bypass Cloud Flare and other CDN's For Priv8
 
 You can have any power plan of Ddoser tool you want, Just see Youtube video and contact with me :)
 
